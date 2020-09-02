@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592920148 source:c:\users\alvar\documents\projetos\linguagemc\funcoesseriesmat_c\funcoesseriesmat\funcoesseriesmat.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

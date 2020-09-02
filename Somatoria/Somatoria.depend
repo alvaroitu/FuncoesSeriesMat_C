@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593423415 source:c:\users\alvar\documents\projetos\linguagemc\funcoesseriesmat_c\somatoria\somatoria.c
+	<stdio.h>
+	<stdlib.h>
+
