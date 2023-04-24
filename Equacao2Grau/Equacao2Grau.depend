@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1599750495 source:c:\users\alvar\documents\projetos\linguagemc\funcoesseriesmat_c\equacao2grau\equacao2grau.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
